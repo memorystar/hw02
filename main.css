@@ -1,0 +1,58 @@
+.circle{
+    width: 43px;
+    height: 43px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 43px;
+    font-size: 24px;
+    font-weight: 900;
+    font-family: arial;
+}
+.red{
+    background: red;
+    color: #fff
+}
+.gold{
+    background: gold;
+}
+
+
+.inner{
+   background: navy;
+}
+.box{
+  width:60px;
+  height:60px; 
+}
+.bg1{
+ background: orangered; 
+}
+.bg2{
+ background: limegreen; 
+}
+.bg3{
+ background: dodgerblue; 
+}
+.bg4{
+ background: gold; 
+}
+.bg{
+    background: #fff0c0;
+    font-family: Microsoft JhengHei, BiauKai, arial; 
+    font-weight: 900;
+
+}
+.font{
+    font-size: 15px;
+    font-weight: 900;
+    line-height: 35px;
+}
+.font1{
+    color: red;
+}
+.font2{
+    text-align: center;
+}
+.he{
+    line-height: 60px;
+}
